@@ -20,7 +20,7 @@ The images were labeled in relation to the predominant biotic stress of each lea
 
 
 ## Model
-If you need the trained model, you can download it from <a href="#">HERE</a>
+If you need the trained model, you can download it from <a href="https://drive.google.com/file/d/1dWgfEhPvBu36aQjrm4OHfGj_HH4OTQoY/view?usp=sharing">HERE</a>
 
 I have implementred a model consists of **VGG16** as feature extractor and on top of it there is **6 head consists of fully connected layers** 
 which are used for the following :
@@ -35,10 +35,6 @@ To pull the repository on your machine
 git clone https://github.com/EhabIbrahim758/Coffee-Leaves-Multi-Label-Classification.git
 ```
 
-if you need to download the trained model use this line
-```
-git lfs pull
-```
 
 You should have torch and torchvision
 
